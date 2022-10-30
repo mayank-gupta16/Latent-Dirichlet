@@ -1,10 +1,9 @@
 # Latent-Dirichlet
-[Project Discription] on (https://github.com/mayank-gupta16/Latent-Dirichlet/files/9895262/NLP.Project.Round-1.pdf)
-
 
 
 NLP Project Round-1
-Github Link: 
+Github Link: https://github.com/mayank-gupta16/Latent-Dirichlet
+
 
 Team Name: Latent Dirichlet
 Members:
