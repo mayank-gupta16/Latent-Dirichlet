@@ -2,11 +2,11 @@
 
 
 NLP Project Round-1
-Github Link: https://github.com/mayank-gupta16/Latent-Dirichlet
+● Github Link: https://github.com/mayank-gupta16/Latent-Dirichlet
 
 
-=> Team Name: Latent Dirichlet
-=> Members:
+● Team Name: Latent Dirichlet
+● Members:
    1. Saransh Mittal(20UCS174)
    2. Aagam Jain(20UCS001)
    3. Mayank Gupta(20UCS113)
